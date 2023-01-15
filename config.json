@@ -1,10 +1,10 @@
 {
-  "index_name": "edy",
+  "index_name": "test",
   "start_urls": [
-    "https://federicotartarini.github.io/docusaurus-example-youtube/"
+    "https://chrisdobra.github.io/docusaurus/"
   ],
   "sitemap_urls": [
-    "https://federicotartarini.github.io/docusaurus-example-youtube/sitemap.xml"
+    "https://chrisdobra.github.io/docusaurus/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [],
